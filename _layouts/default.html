@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/css/main.css">
+    <title>{{ site.title }}</title>
+</head>
+<body>
+    <main>
+        <header class="site-header">
+            <h1 class="site-title"><a href="/">{{ site.title }}</a></h1>
+            <nav class="site-nav">
+				<a href="/" class="{% if page.url == '/' || page.url == '/' %}active{% endif %}">About Me</a>
+                <a href="/work/" class="{% if page.url == '/work/' %}active{% endif %}">Noteable Work</a>
+            </nav>
+        </header>
+        {{ content }}
+    </main>
+    {% if site.google_analytics %}
+    {% endif %}
+</body>
+</html>

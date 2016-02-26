@@ -1,3 +1,9 @@
-# AaronDemond.github.io
+vida
+---------
 
-My homepage source, currently under construction.
+vida is a simple and beautiful jekyll theme.
+You can see demo [here](http://syaning.com/vida/).
+
+### License
+
+MIT
