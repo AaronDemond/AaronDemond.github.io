@@ -1,3 +1,3 @@
 # AaronDemond.github.io
 
-My homepage source, currently under construction
+My homepage source, currently under construction.
