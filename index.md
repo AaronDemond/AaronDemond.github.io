@@ -6,7 +6,7 @@ title:     About Me
 
 
 ![](/images/me_2.png)
-## Aaron Demond
+# Aaron Demond
 
 
 I am an undergraduate student studying computer science at Dalhousie University in Halifax, NS, Canada. I have competed in programming competitions, hack-a-thons, and contributed to open source software. I am able to build full-stack web applications with linux, using various frameworks and technologies.
