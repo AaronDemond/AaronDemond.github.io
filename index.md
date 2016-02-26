@@ -6,6 +6,7 @@ title:     About Me
 
 
 ![](/images/me_2.png)
+----------
 # Aaron Demond
 
 
