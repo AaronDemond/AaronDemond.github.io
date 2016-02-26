@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Noteable Work
+permalink: /work/
 ---
 
 ![](/images/redspace_large.jpg)
