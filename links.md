@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Links
+permalink: /links/
 ---
 - <a href="https://www.djangoproject.com/">Django Homepage</a>
 - <a href="http://www.vim.org/scripts/">Vim Scripts</a>
