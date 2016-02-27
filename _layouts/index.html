@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="/css/home_page.css">
     <title>{{ site.title }}</title>
 </head>
 <body>
@@ -16,8 +17,20 @@
                 <a href="/links/" class="{% if page.url == '/links/' %}active{% endif %}">Links</a>
             </nav>
         </header>
-		
-		<section>
+		<section id="imageSection">
+			<img src="/images/me_2.png"alt="Me">
+			<ul>
+				<li>
+					<h1>Contact</h1>
+				</li>
+				<li>Aaron Demond</li>
+				<li>1-(902) 448-3867</li>
+				<li>aarondemond@dal.ca</li>
+				<li><a href="https://github.com/AaronDemond">GitHub</a></li>
+
+			</ul>
+		</section>
+		<section style="clear: both">
 			{{ content }}
 		</section>
 
