@@ -17,7 +17,7 @@ I am an undergraduate student studying computer science at Dalhousie University 
 - Worked over one year in IT support at Best Buy (Geek Squad), followed by one year of sales.
 - Setup and maintained servers using different types of Unix-like systems, from different providers, such as <a href="https://www.canadianwebhosting.com/">Canadian Web Hosting</a> and <a href="https://aws.amazon.com/ec2/">EC2</a>.
 - Worked with local businesses on different kinds of projects, including software systems, web design, and payment integration using <a href="https://stripe.com/ca">Stripe</a>.
-- To see a fill list of my skills, download my <a href="/downloads/aaron_demond_CV.doc" download>CV</a>.
+- To see a full list of my skills, download my <a href="/downloads/aaron_demond_CV.doc" download>CV</a>.
 
 
 # Contact
