@@ -8,6 +8,7 @@ permalink: /work/
 ---
 
 
+- <a href="https://pdsquirrel.ca">PD Squirrel</a>
 - <a href="https://github.com/AaronDemond/PokerSim.git" target="_blank">PokerSim</a>
 
 - <a href="https://twitter.com/DigitalNS/status/665601933013569540" target="_blank">RedSpace Hackathon</a>
