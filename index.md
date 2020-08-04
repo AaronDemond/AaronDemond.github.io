@@ -7,9 +7,11 @@ title:     About Me
 ----------
 
 # Aaron Demond
+I'm a 26 year old programmer on the east coast of Canada. We have the dark blue ocean, beautiful moutain passages, and the smell of saltwater drifing through our steep city streets. Yet myself and many others are happily inside... slaming on plastic keyboards, in hopes of improving our planet and our society, through technology and science. For a few hours at least.... someone has to fill one of our (hundreds?) of sports bars and pubs, right?
 
+Hello! I'm a programmer working on infastructure and tools for (what I beleive) will be the future of finance. Checkout my work at https://Github.com/AaronDemond. 
 
-I am an undergraduate student studying computer science at Dalhousie University in Halifax, NS, Canada. I have competed in programming competitions, hack-a-thons, and contributed to open source software. I am able to build full-stack web applications with Linux, using various frameworks and technologies.
+I have studied economics and computer science in Halifax, Nova Scotia, at both Dalhousie University and Saint Mary's University. I've been to hack-a-thons, value and attempt to contribute to open source software, and am always on the search for the next big thing. Im comfortable working with bash, configuring databases, and writing python.
 
 # I have ...
 - Coded for 10+ years, using industry standards such as the MVC Design pattern and Enterprise grade systems, such as <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">RHEL 6</a>.
