@@ -7,7 +7,6 @@ title:     About Me
 ----------
 
 # Aaron Demond
-I'm a 26 year old programmer on the east coast of Canada. We have the dark blue ocean, awesome cliffside passages, and the smell of the saltwater harbour drifing through our old, steep city. Yet myself and many others are happily inside... slaming on plastic keyboards, in hopes of improving our planet and our society, through technology and science.
 
 Hello! I'm a programmer working on infastructure and tools for (what I beleive) will be the future of finance. Checkout my work at https://Github.com/AaronDemond. 
 
