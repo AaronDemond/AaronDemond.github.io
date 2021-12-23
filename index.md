@@ -22,7 +22,6 @@ I have studied economics and computer science in Halifax, Nova Scotia, at both D
 # Contact
 Feel free to contact me, or check out my open source projects.
 
-- Phone: (902) 835 - 8433
 - Email: aarondemond@dal.ca
 - Github: <a href="https://github.com/AaronDemond">https://github.com/AaronDemond</a>
 
