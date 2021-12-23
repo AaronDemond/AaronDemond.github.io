@@ -8,8 +8,6 @@ title:     About Me
 
 # Aaron Demond
 
-Hello! I'm a programmer working on infastructure and tools for (what I beleive) will be the future of finance. Checkout my work at https://Github.com/AaronDemond. 
-
 I have studied economics and computer science in Halifax, Nova Scotia, at both Dalhousie University and Saint Mary's University. I've been to hack-a-thons, value and attempt to contribute to open source software, and am always on the search for the next big thing. Im comfortable working with bash, configuring databases, and writing python.
 
 # I have ...
