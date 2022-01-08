@@ -8,9 +8,9 @@ title:     About Me
 
 # Aaron Demond
 
-I have studied economics and computer science in Halifax, Nova Scotia, at both Dalhousie University and Saint Mary's University. I've been to hack-a-thons, value and attempt to contribute to open source software, and am always on the search for the next big thing. Im comfortable working with bash, configuring databases, and writing python.
+I have studied economics and computer science in Halifax, Nova Scotia, at both Dalhousie University and Saint Mary's University. I've been to hack-a-thons, worked as a full stack developer, and have an interest in Artificial Intelligence. Im comfortable working with bash, configuring databases, and writing python.
 
-# I have ...
+# About
 - Coded for 10+ years, using industry standards such as the MVC Design pattern and Enterprise grade systems, such as <a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux">RHEL 6</a>.
 - Written various software, including a JavaScript audio recorder tool inspired by Matt Diamond's <a href="https://github.com/mattdiamond/Recorderjs">Recorderjs</a>, a DBMS, and more.
 - Worked over one year in IT support at Best Buy (Geek Squad), followed by one year of sales.
